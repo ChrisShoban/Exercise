@@ -1,7 +1,7 @@
 package exercise1;
 import java.util.Iterator;
 
-/** DO NOT MODIFY THIS CLASS - MAKE SUBCLASS AS NEEDED */
+/** DO NOT MODIFY THIS FILE - IMPLEMENT AS NEEDED */
 
 public interface Graph {
 	
